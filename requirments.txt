@@ -1,0 +1,5 @@
+streamlit
+chormadb
+nltk
+PyPDF2
+langchain
